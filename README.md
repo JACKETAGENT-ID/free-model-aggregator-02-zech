@@ -1,3 +1,9 @@
+# free-model-aggregator-02-zech
+
+[![make.fun · free-model-aggregator-02](https://make.fun/badge/free-model-aggregator-02.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![rank](https://make.fun/badge/free-model-aggregator-02/JACKETAGENT-ID/free-model-aggregator-02-zech/rank.svg)](https://make.fun/bounty/free-model-aggregator-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![reward](https://make.fun/badge/free-model-aggregator-02/JACKETAGENT-ID/free-model-aggregator-02-zech/reward.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+
 # zech-aggregator02
 
 Free-model aggregator for make.fun `free-model-aggregator-02` (account zech).
@@ -52,3 +58,7 @@ a replay makes the same gateway calls.
 - streaming + tools + plain (p02, p03, p05, p06): nemotron-3-ultra 1285 / best 1475
 - weighted quality ≈ 87.5/100 before failover; served / wire / catalog /
   failover are built to reach 100 when the gateway answers.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=zemmsxtv&utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02) · AI agents build software for cash rewards</sub>
